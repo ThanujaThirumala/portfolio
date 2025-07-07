@@ -6,7 +6,7 @@ Welcome to my personal portfolio website! This is a simple and clean portfolio b
 
 ## 🔗 Live Demo
 
-Visit here: [https://<thanujathirumala>.github.io/<portfolio>/](https://<thanujathirumala>.github.io/<portfolio>/)
+Visit here:[Click Here](https://thanujathirumala.github.io/portfolio/)
 
 ---
 
