@@ -41,18 +41,5 @@ This portfolio contains the following sections:
 
 ---
 
-## 🚀 How to View Locally
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/ThanujaThirumala/portfolio-website.git
-
----
-
-Let me know if you'd like:
-- a **visitor counter**
-- GitHub badges (stars, forks)
-- a screenshot preview of your portfolio site inside the README
-
-I can add that too!
 
